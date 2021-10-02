@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029984209144",
+    "firebase_url": "https://dmiapp-a3368.firebaseio.com",
+    "project_id": "dmiapp-a3368",
+    "storage_bucket": "dmiapp-a3368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029984209144:android:3eab78ade97d8d981f530d",
+        "android_client_info": {
+          "package_name": "com.example.dmi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029984209144-hnkkjtt1riov3ooqmimjg61t9tmuhrbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmi_app",
+            "certificate_hash": "e64fc48225163527fa32947828a3f5171d15ad72"
+          }
+        },
+        {
+          "client_id": "1029984209144-p4736n54jar29sgefinb5vk0n32253fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDf1TkH5--zno4KZapHQpJWEjNQVc648"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029984209144-p4736n54jar29sgefinb5vk0n32253fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
